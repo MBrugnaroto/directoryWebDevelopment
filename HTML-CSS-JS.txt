@@ -1,0 +1,64 @@
+1 - HTML:
+1.1 - Conceitos base:
+1.1.1 - Semântica
+1.1.2 - SEO
+1.1.3 - Acessibilidade
+1.1.4 - Segurança
+1.2 - TAGS
+1.2.1 - Tags HTML estruturais
+1.2.2 - A tags HTML de conteúdo
+1.2.2.1 - Tags HTML de título
+1.2.2.2 - Tags HTML de texto
+1.2.2.3 - Tag de link HTML
+1.2.2.4 - Tags HTML de multimídia
+1.2.2.5 - Tags HTML de listas
+1.2.2.6 - Tags HTML de formulário
+1.2.3 - Tags de estilos e scripts
+1.3 - Links:
+https://medium.com/htmlmoderno/o-guia-completo-sobre-cabe%C3%A7alhos-html-incluindo-sem%C3%A2ntica-seo-e-acessibilidade-f4cc597e679e
+https://medium.com/@mikadafne/aprenda-a-formatar-texto-em-html-utilizando-tags-sem%C3%A2nticas-12b419bb08ac
+https://medium.com/htmlmoderno/voc%C3%AA-sempre-v%C3%AA-o-doctype-na-primeira-linha-mas-voc%C3%AA-sabe-o-por-qu%C3%AA-7d68191c6d67
+https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065
+https://www.homehost.com.br/blog/tutoriais/tags-html/#topico03
+https://www.devmedia.com.br/comandos-e-tags-html5/23618
+
+2 - CSS:
+2. - Cascata e Herança no CSS
+2. - Seletores e seletores avançados
+2. - Psceudo Classes
+2. - Psceudo Elementos
+2. - CSS Reset
+2. - Block VS Inline VS Inline-block
+2. - Position
+2. - Float e Clear
+2. - Eliminar Magic Numbers
+2. - Estilização
+2..1 - Boder-Radius
+2..2 - Text-Shadow
+2..3 - Box-Shadow
+2..4 - Opacidade e RGBA
+2..5 - Gradientes
+2..6 - Transitions
+2..6.1 - linear - velocidade constante na animação;
+2..6.2 - ease - redução gradual na velocidade da animação;
+2..6.3 - ease in - aumento gradual na velocidade da animação;
+2..6.4 - ease-in-out - aumento gradual, depois redução gradual na velocidade da animação;
+2..6.5 - cubic-bezier(x1, y1, x2, y2) - curva de velocidade para animação customizada. http://www.roblaplaca.com/examples/bezierBuilder/
+2..7 - Transforms
+2..7.1 - Translate - mover o elemento verticalmente ou/e horizontalmente;
+2..7.2 - Rotate - rotacionar o elemento angularmente;
+2..7.3 - Scale - alterar a escolada do elemento (parecido com o zoom de uma foto);
+2..7.4 - Skew - distorcer o elemento verticalmente ou/e horizontalmente
+2. - Unicode
+2. - Prefixos para navegadores
+2. - Progressive enhancement e graceful	degradation
+2. - Mobile-first
+2. - Media Queries
+2..1 - Media queries de conteudo
+2. - Box Model e Box-sizing
+2. - Flex Box
+2. - Grid
+
+EXTRAS - Conceitos:
+1 - Landing Page
+2 - SPA

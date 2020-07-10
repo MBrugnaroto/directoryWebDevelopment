@@ -1,0 +1,40 @@
+footer {
+    background-image: url(../img/fundo-rodape.png);
+    clear: both;
+    padding: 20px 0;
+    margin: 0;
+}
+
+footer .container {
+    position: relative;
+}
+
+.social {
+    position: absolute;
+    right: 0;
+    top: 12px;
+}
+
+.social a {
+    height: 32px;
+    width: 32px;
+    display: block;
+    text-indent: -9999px;
+}
+
+.social li {
+    float: left;
+    margin-left: 25px;
+}
+
+.social a[href*="facebook.com"] {
+    background-image: url(../img/facebook.png);
+}
+
+.social a[href*="twitter.com"] {
+    background-image: url(../img/twitter.png);
+}
+
+.social a[href*="google.com"] {
+    background-image: url(../img/googleplus.png);
+}
