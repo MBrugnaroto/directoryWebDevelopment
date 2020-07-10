@@ -1,4 +1,4 @@
-# Caleum Web Development
+# Directory Web Development
 Esse diretório foi criado com o intuito de fumentar meus conhecimentos em HTML, CSS e JavaScript.
 
 **HTML:**
