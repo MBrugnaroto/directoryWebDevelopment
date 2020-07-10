@@ -64,5 +64,5 @@ Esse diretório foi criado com o intuito de fumentar meus conhecimentos em HTML,
 18. Grid
 
 EXTRAS - Conceitos:
-1 - Landing Page
-2 - SPA
+1. Landing Page
+2. SPA
