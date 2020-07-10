@@ -1,7 +1,7 @@
 # Directory Web Development
 Esse diretório foi criado com o intuito de fumentar meus conhecimentos em HTML, CSS e JavaScript.
 
-**HTML:**
+## HTML:
 1. Conceitos base:
       1. Semântica
       2. SEO
@@ -26,7 +26,7 @@ Esse diretório foi criado com o intuito de fumentar meus conhecimentos em HTML,
 * [TAGS](https://www.homehost.com.br/blog/tutoriais/tags-html/#topico03)
 * [Mais comandos e TAGS](https://www.devmedia.com.br/comandos-e-tags-html5/23618)
 
-**CSS:**
+## CSS
 1. Cascata e Herança no CSS
 2. Seletores e seletores avançados
 3. Psceudo Classes
